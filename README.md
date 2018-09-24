@@ -17,3 +17,12 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+Name: Alexander Engel
+Nickname: Alex
+Status: Complete
+Instructions:
+
+`gcc -o hello_world piku.s`
+`./hello_world`
+
+Issues/Questions: none
